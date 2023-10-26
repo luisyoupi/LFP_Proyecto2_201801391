@@ -523,4 +523,4 @@ Para cerrar la aplicación, simplemente haz clic en la opción "Salir" en el men
 def salir():
     ventana.quit()
     
-    [Texto alternativo]https://github.com/luisyoupi/LFP_Proyecto2_201801391/blob/main/expresionRegulal.png
+![Expresión Regular](https://github.com/luisyoupi/LFP_Proyecto2_201801391/blob/main/expresionRegulal.png)
