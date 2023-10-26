@@ -102,7 +102,10 @@ Para cerrar la aplicación, simplemente haz clic en la opción "Salir" en el men
 
 ###  Anexos
 
-![Expresión Regular]https://github.com/luisyoupi/LFP_Proyecto2_201801391/blob/main/ImagenA.png)
-![Expresión Regular]https://github.com/luisyoupi/LFP_Proyecto2_201801391/blob/main/ImagenB.png)
-![Expresión Regular]https://github.com/luisyoupi/LFP_Proyecto2_201801391/blob/main/ImagenC.png)
-![Expresión Regular]https://github.com/luisyoupi/LFP_Proyecto2_201801391/blob/main/ImagenD.png)
+![Texto alternativo](https://github.com/luisyoupi/LFP_Proyecto2_201801391/blob/main/ImagenA.png)
+
+![Texto alternativo](https://github.com/luisyoupi/LFP_Proyecto2_201801391/blob/main/ImagenB.png)
+
+![Texto alternativo](https://github.com/luisyoupi/LFP_Proyecto2_201801391/blob/main/ImagenC.png)
+
+![Texto alternativo](https://github.com/luisyoupi/LFP_Proyecto2_201801391/blob/main/ImagenD.png)
